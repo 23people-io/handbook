@@ -1,8 +1,8 @@
 ---
 title: "Estrategia a 2025"
 date: 2022-06-13T00:00:00-03:00
-weight: 2
-description: "¿Qué estaremos haciendo en 23people dentro de 3 años más (2025)?"
+weight: 4
+description: "Lo que estaremos haciendo en 23people dentro de 3 años más (2025)"
 mantained_by:
     - manu.reyes
 ---
@@ -17,15 +17,11 @@ Tenemos claro donde queremos ir, pero la forma de llegar a ese norte, será flex
 
 Creemos firmemente que **todos pueden contribuir en esto** pero tambien sabemos que debemos madurar nuestra forma de trabajo, nuestra formación de talentos y liderazgos, nuestras relaciones comerciales y nuestra habilidades profesionales, en un ciclo de mejora continua y preocupada.
 
-> Puedes acceder a las diapositivas de la **Presentación de Estrategia 2025** en [este enlace](https://drive.google.com/file/d/1yF7zr_uigo-qBDGgnPOrEtngeX0G_9tj/view?usp=sharing), realizada por @manu.reyes en Mayo 2022.
-
-# El Norte
+# Objetivos Estratégicos
 
 Esto es lo que estaremos haciendo en **3 años más (2025)**:
 
-{{< figure src="strategy-goal-1.png" >}}
-
-## 1. Somos una empresa reconocida internacionalmente.
+## 1. Somos una empresa internacional y de cultura reconocida.
 
 _"La industria y sus necesidades son globales. 23people y sus personas también lo serán."_ - **El Equipo Fundador**
 
@@ -35,28 +31,26 @@ _"La industria y sus necesidades son globales. 23people y sus personas también 
 
 -   **No todos pueden ser nuestros clientes.** Compartirmos valores con nuestros clientes. El crecimiento económico de 23people no es a costa de la sustentabilidad de nuestra gente.
 
-{{< figure src="strategy-goal-2.png" >}}
+{{< figure src="strategy-goal-1.png" >}}
 
-## 2. Tenemos un estilo propio, valorado y exitoso de formar equipos para nuestros clientes.
+## 2. Contamos con un servicio de IT Staffing Remoto de profesionales que es sostenible, escalable y valorado por nuestros clientes y profesionales.
 
 _"Transcenderemos con un estilo propio de formar equipos: preocupación, crecimiento profesional y alto rendimiento."_ - **Equipo Fundador**
 
 -   **Nuevo nombre de servicio.** Dejamos atrás el nombre de outsourcing y tenemos uno que refleja nuestros valores, aporte a nuestros clientes y enfoque al crecimiento profesional de los/las profesionales que son parte de 23people en esta modalidad.
 
--   **No buscamos 'Talentos'.** Buscamos eternos/as aprendices/as en TI. Talento se entiende como que alguien ya nació con esas habilidades que buscamos, por tanto, nos interesan más aquellas personas las desarrollan y mejoran continuamente.
-
 -   **Crecimiento Profesional y Alto Rendimiento.** Preocupación genuina, apoyo y constantes desafíos para avanzar. Colaboración y Competencia.
 
 -   **We are Re-motto.** Es nuestro estilo de trabajo. Es una ventaja que sabemos aprovechar.
 
+-   **Nuevos Servicios y Productos** Nuestro gusto por la tecnología se traducirá en un semillero de soluciones e innovación asociados a nuestro servicio y sector.
+
 {{< figure src="strategy-goal-3.png" >}}
 
-## 3. Somos parte de la revolución de la industria tecnológica.
+## 3. Las personas de 23people sienten que crecen como profesionales, valoran la empresa y nos recomiendan.
 
-_"Nuestro gusto por la tecnología se traducirá en un semillero de soluciones e innovación."_ - **Equipo Fundador**
+_"Somos una empresa de informática que tiene a sus profesionales en el centro de lo que hace. Esta preocupación genuina se traducirá en excelentes servicios y productos para nuestros clientes."_ - **Equipo Fundador**
 
--   **SaaS-First.** Usaremos el modelo de Software-as-a-Service como guía global de nuestras soluciones.
+-   **No buscamos 'Talentos'.** Buscamos eternos/as aprendices/as en TI. Talento se entiende como que alguien ya nació con esas habilidades que buscamos, por tanto, nos interesan más aquellas personas las desarrollan y mejoran continuamente.
 
--   **Incubamos y liberamos nuevas empresas.** Las soluciones maduran y siguen su propio camino como empresa derivada de 23people.
-
--   **Modelo maduro de innovación.** Soluciones atractivas técnica, comercial y financieramente.
+{{< figure src="strategy-goal-2.png" >}}

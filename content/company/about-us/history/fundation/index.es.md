@@ -1,8 +1,8 @@
 ---
 title: "Fundación"
 date: 2022-07-28T00:00:00-03:00
-weight: 10
-description: "Cómo nació 23people"
+weight: 1
+description: "Detalles de los primeros dias de 23people"
 keywords: ["historia", "inicio", "nacimiento", "fundacion"]
 mantained_by:
     - manu.reyes

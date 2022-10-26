@@ -1,5 +1,5 @@
 ---
-title: "23people"
+title: "Empresa"
 date: 2021-11-10T00:00:00-03:00
 icon: "fa-solid fa-rocket"
 icon_color: "text-blue"

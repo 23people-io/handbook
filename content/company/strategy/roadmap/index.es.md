@@ -9,13 +9,15 @@ mantained_by:
 
 Para alcanzar el Norte en que queremos estar, se ha definido una estrategia la cual cuenta con el siguiente roadmap (camino) a ser recorrido.
 
-Se muestran los hitos que se estará buscando alcanzar y indicadores de exito para su seguimiento.
+Se muestran los hitos e iniciativas que se estará buscando alcanzar y indicadores de exito para su seguimiento.
 
 # Año: 2022
 
-Lo siguiente es lo que estaremos realizando durante este año:
+## Trimetres: Q4
 
--   TDB
+| ID                                                                                           | Nombre                                                                     | Responsable(s) | Estado General |
+| :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------- | :------------- | :------------- |
+| [3508](https://drive.google.com/drive/folders/1MuY7tATVgqg9SQSMEFfufE3G8x_rdveQ?usp=sharing) | Mejorar y uniformar nuestra imagen empresa frente a nuestros profesionales | @Catita\_      | Por Hacer      |
 
 # Año: 2023
 
