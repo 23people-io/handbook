@@ -1,0 +1,38 @@
+{{ "<!-- details page -->" | safeHTML }}
+<section class="single section-sm">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 pl-0">
+                <div class="container-divider"></div>
+            </div>
+        </div>
+        <div class="row pb-3">
+            <div class="col-sm-12 col-md-9">
+                {{ partial "page/navigation.html" . }}
+            </div>
+            <div class="col-sm-12 col-md-3">
+                {{ partial "page/search.html" . }}
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="d-none d-md-block col-lg-3 pl-0">
+                {{ partial "page/sidebar.html" . }}
+            </div>
+
+            <div class="col-sm-12 col-lg-9">
+                <div class="content-section pr-0 bg-white" id="content">
+                    {{ partial "page/header.html" . }}
+
+                    {{ if .Content }}
+                        <div class="content page-body">{{ .Content }}</div>
+                    {{ end }}
+
+                    {{ partial "page/pagination.html" . }}
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- /details page -->" | safeHTML }}

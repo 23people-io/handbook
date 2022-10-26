@@ -1,0 +1,53 @@
+{{ define "sidelist" }}
+    {{ $showvisitedlinks := .showvisitedlinks }}
+    {{ $parentNode := .parentNode }}
+    {{ $node := .currentNode }}
+    {{ with $node }}
+        {{ safeHTML .Params.head }}
+        {{ $fileUniqueID := "" }}
+
+        {{ $currentNodeFileUniqueID := "" }}
+        {{ with $node.File }}
+            {{ $currentNodeFileUniqueID = .UniqueID }}
+        {{ end }}
+
+        {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
+
+        {{ if eq $numberOfPages 0 }}
+            {{ $node = $parentNode }}
+        {{ end }}
+
+
+        <li class="main-node">
+            <a href="{{ $node.Permalink }}" class="active">
+                {{ safeHTML .Params.Pre }}{{ or .Params.menuTitle $node.LinkTitle $node.Title }}{{ safeHTML .Params.Post }}
+            </a>
+            <ul>
+                {{ range $node.Pages.ByWeight }}
+                    {{ if and .Params.hidden (not $.showhidden) }}
+                    {{ else }}
+                        {{ with .File }}
+                            {{ $fileUniqueID = .UniqueID }}
+                        {{ end }}
+                        <li
+                            data-nav-id="{{ .Permalink }}"
+                            title="{{ .Title }}"
+                            class="{{ if eq $fileUniqueID $currentNodeFileUniqueID }}
+                                active
+                            {{ end }}"
+                        >
+                            <a
+                                href="{{ .Permalink }}"
+                                class="{{ if eq $fileUniqueID $currentNodeFileUniqueID }}
+                                    active
+                                {{ end }}"
+                            >
+                                {{ safeHTML .Params.Pre }}{{ or .Params.menuTitle .LinkTitle .Title }}{{ safeHTML .Params.Post }}
+                            </a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </li>
+    {{ end }}
+{{ end }}

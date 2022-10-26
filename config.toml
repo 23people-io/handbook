@@ -1,0 +1,107 @@
+################################# Default configuration ###################
+baseURL = "/"
+defaultContentLanguage = "es"
+theme = "23p-dot-theme"
+enableEmoji = true
+title = "Manual 23people"
+disableLanguages = []
+googleAnalytics = "G-HT4WGJ9WL6" 
+enableGitInfo = true
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Default Parameters ##########################
+[params]
+title = "El Manual de 23people"
+logo = "images/logo-23people-color.png"
+logo_white = "images/logo-23people-white.png"
+
+# OpenGraph
+description = "El manual de todo lo que hacemos en 23people."
+author = "23people"
+images = ['images/default-thumbnail.jpeg']
+image = "images/default-thumbnail.jpeg" # this image will be used as fallback if a page has no image of its own
+
+# customize color
+primary_color = "#5865F2"
+body_color = "#f9f9f9"
+text_color = "#4f545c"
+text_color_dark = "#4f545c"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+# Gitlab Web IDE Base Url
+gitlab_base_url = "https://gitlab.com/"
+gitlab_web_ide_base_url = "https://gitlab.com/-/ide/project/23people.io/our-sites/handbook/edit/main/-/content/"
+
+############################## social links ##############################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+name = "Facebook"
+link = "https://www.facebook.com/23people"
+  
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+name = "Gitlab"
+link = "https://gitlab.com/23people"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+name = "Youtube"
+link = "https://www.youtube.com/channel/UCj5B_5ZDRI0MuozJo-iPV4Q"
+
+[[params.social]]
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+name = "Instagram"
+link = "https://www.instagram.com/23people.io"
+  
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+name = "Linkedin"
+link = "https://www.linkedin.com/company/23people"
+
+################################### Spanish Language ######################
+[Languages.es]
+languageName = "Es"
+languageCode = "es-es"
+weight = 2
+copyright = "Copyright &copy; 2022 [23people SpA](https://23people.io/)"
+
+# banner
+[Languages.es.params.banner]
+title = "Nuestro manual y base de conocimientos"
+# subtitle = "Todo el qué, el cómo y el por qué lo hacemos así en 23people, lo podrás encontrar en esta base de conocimientos"
+bg_image_path = "images/"
+placeholder = "Buscar..."
+
+# intro
+[Languages.es.params.intro]
+title = "¿Tienes una pregunta?"
+subtitle = "Desde como pedir vacaciones hasta cómo construimos geniales soluciones informáticas o cómo seleccionamos eternos/as aprendices de TI, lo podrás encontrar en esta base de conocimientos de 23people"
+
+# colaboration
+[Languages.es.params.cta]
+enable = true
+title = "¿Quieres colaborar con contenido en este manual?"
+content = "Este manual se mantiene por medio del uso de nuestra cuenta en [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/)."
+# colaboration action button
+[Languages.es.params.cta.button]
+enable = true
+label = "¡Agrega contenido 🥳!"
+link = "https://gitlab.com/23people/our-sites/handbook/-/tree/main"
+
+
+################## spanish navigation #################
+[[Languages.es.menu.main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[frontmatter]
+lastmod = [':git', 'lastmod', 'date', 'publishDate']
+

@@ -1,0 +1,9 @@
+<div class="sidebar">
+    <ul>
+        {{ $currentNode := . }}
+        {{ $parentNode := .Parent }}
+
+        {{ template "sidelist" dict "parentNode" $parentNode "currentNode" . }}
+
+    </ul>
+</div>

@@ -1,0 +1,39 @@
+<div class="page-header">
+    <div class="page-title">
+        <h1>{{ .Title }}</h1>
+    </div>
+    {{ $pageData := . }}
+    {{ $mantained_by := $pageData.Params.mantained_by }}
+
+
+    <div class="page-author">
+        {{ range $mantained_by }}
+            {{ $teamMemberData := ( index $.Site.Data "team-members" . ) }}
+            <div class="avatar page-avatar">
+                {{ $gitlab_profile_url := (print $.Site.Params.gitlab_base_url $teamMemberData.gitlab) }}
+                <a href="{{ $gitlab_profile_url }}" target="_blank">
+                    <img
+                        src="{{ $teamMemberData.picture }}"
+                        alt=""
+                        title="{{ $teamMemberData.name }}"
+                        class="user-avatar"
+                    />
+                </a>
+            </div>
+        {{ end }}
+        <div class="page-meta">
+            <ul class="meta-group">
+                <li class="meta-data">
+                    Actualizado:
+                    {{ $pageData.Lastmod.Format "Jan 2, 2006" }}
+                </li>
+                <li class="meta-data">
+                    {{ $gitlab_url := (print $.Site.Params.gitlab_web_ide_base_url $pageData.File.Path) }}
+                    <a href="{{ $gitlab_url }}" target="_blank">
+                        Contribuye a esta página
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

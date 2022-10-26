@@ -1,0 +1,19 @@
+<ul class="breadcrumbs">
+    <li>
+        <a href="/">{{ .Site.Title }}</a>
+    </li>
+
+    {{ $path := "" }}
+    {{- range (split .RelPermalink "/") -}}
+        {{- if (gt (len .) 0) -}}
+            {{ $path = print $path "/" . }}
+            {{ with $.Site.GetPage $path }}
+                {{- if not .IsPage -}}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </li>
+                {{- end -}}
+            {{ end }}
+        {{- end -}}
+    {{- end -}}
+</ul>

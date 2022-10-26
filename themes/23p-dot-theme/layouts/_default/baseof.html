@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
+    {{ partial "head.html" . }}
+
+
+    <body>
+        {{ if .IsHome }}
+            {{ "<!-- header -->" | safeHTML }}
+            {{ $image_index := index (shuffle (seq 1 5)) 0 }}
+            {{ $bg_image := print .Site.Params.banner.bg_image_path "bg-image-" $image_index ".jpeg" }}
+            <header
+                class="banner {{ if .Site.Params.banner.bg_image_path }}
+                    overlay bg-cover
+                {{ else }}
+                    bg-primary
+                {{ end }}"
+                data-background="{{ $bg_image | absURL }}"
+            >
+                {{ partial "main-menu.html" . }}
+                {{ partialCached "banner.html" . }}
+            </header>
+            {{ "<!-- /header -->" | safeHTML }}
+        {{ else }}
+            {{ "<!-- header -->" | safeHTML }}
+            <header class="shadow-bottom sticky-top bg-white">
+                {{ partialCached "main-menu.html" . }}
+            </header>
+            {{ "<!-- /header -->" | safeHTML }}
+        {{ end }}
+        {{ block "main" . }}{{ end }}
+        {{ partialCached "footer.html" . }}
+    </body>
+</html>

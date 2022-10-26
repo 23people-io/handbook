@@ -1,0 +1,6 @@
+<h{{ .Level }} class="header-link" id="{{ anchorize (.Text) }}">
+    {{ .Text | safeHTML }}
+    <a class="anchored-heading" href="#{{ anchorize (.Text) }}">
+        <i class="fa-solid fa-link"></i>
+    </a>
+</h{{ .Level }}>
