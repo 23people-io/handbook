@@ -1,5 +1,5 @@
 ---
-title: "Propósito: Visión + Misión"
+title: "Propósito: Visión y Misión"
 date: 2022-10-25T00:00:00-03:00
 weight: 3
 keywords: ["vision", "proposito", "mision"]
