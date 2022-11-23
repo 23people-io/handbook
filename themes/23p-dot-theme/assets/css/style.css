@@ -561,7 +561,7 @@ textarea.form-control {
 }
 
 .content img {
-  max-width: calc(100% - 20px);
+  width: 100%;
   height: auto;
   display: block;
   text-align: center;
@@ -621,12 +621,7 @@ blockquote {
   padding: 20px 40px;
   border-left: 2px solid var(--primary-color);
   margin: 40px 0;
-  font-weight: bold;
   background: var(--light-color);
-}
-
-blockquote p {
-  margin-bottom: 0 !important;
 }
 
 .pagination {
