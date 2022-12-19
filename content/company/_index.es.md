@@ -7,7 +7,7 @@ weight: 1
 description: "Todo sobre nuestra empresa: Origen del nombre, cultura, historia, propósito y más."
 type: "docs"
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

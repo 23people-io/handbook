@@ -6,7 +6,7 @@ weight: 1
 draft: true
 keywords: ["metodologia", "software"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

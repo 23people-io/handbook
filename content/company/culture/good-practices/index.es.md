@@ -7,8 +7,8 @@ weight: 4
 draft: false
 keywords: ["buenas", "practicas"]
 mantained_by:
-    - manu.reyes
-    - patricia.munoz
+    - manu-reyes-23p
+    - patymunozl
 ---
 
 # Introducción

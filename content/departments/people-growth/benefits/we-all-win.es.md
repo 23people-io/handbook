@@ -6,7 +6,7 @@ weight: 3
 draft: true
 keywords: ["we", "all", "win", "bono", "sueldo"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 {{< notice info >}}

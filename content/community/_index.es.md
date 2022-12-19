@@ -8,9 +8,9 @@ description: "Información de utilidad para todos nosotros en la empresa y nuest
 type: "docs"
 mantained_by:
     - alejandrapaola
-    - Catita_
-    - patricia.munoz
-    - manu.reyes
+    - CataStange
+    - patymunozl
+    - manu-reyes-23p
 ---
 
 # Bienvenido/a

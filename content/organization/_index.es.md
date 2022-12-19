@@ -7,7 +7,7 @@ weight: 1
 description: "Como estamos organizados como empresa: Flujos de Trabajo, Departamentos y Equipos."
 type: "docs"
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

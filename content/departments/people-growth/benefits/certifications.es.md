@@ -6,7 +6,7 @@ weight: 1
 draft: false
 keywords: ["certificaciones", "internacionales", "reembolso"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 ### Reembolso Certificaciones Internacionales

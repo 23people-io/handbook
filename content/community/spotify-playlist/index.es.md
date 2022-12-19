@@ -4,7 +4,7 @@ date: 2022-09-01T00:00:00-03:00
 weight: 2
 description: "Nuestra playlist colaborativa en Spotify"
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 {{< figure src="thumbnail.png" >}}

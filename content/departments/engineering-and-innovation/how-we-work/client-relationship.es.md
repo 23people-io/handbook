@@ -7,7 +7,7 @@ description: "Agile Coaching asociado a la gestión y relación con clientes"
 draft: false
 keywords: ["gestion", "relación", "cliente", "agile"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

@@ -6,7 +6,7 @@ weight: 1
 draft: false
 keywords: ["internacionalizacion", "mexico", "i18n"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 ### ¿En qué condiciones legales estás?

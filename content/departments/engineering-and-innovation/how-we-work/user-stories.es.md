@@ -7,7 +7,7 @@ description: "¿Cuál es la definición de terminado que utilizamos en nuestros 
 draft: false
 keywords: ["HU", "historias", "Gherkin", "usuario"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 ![img-user-stories](../img-user-stories.png)

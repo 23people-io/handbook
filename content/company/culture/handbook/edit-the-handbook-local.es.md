@@ -6,7 +6,7 @@ weight: 1
 draft: false
 keywords: ["handbok", "manual", "local"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 # Introducción

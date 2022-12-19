@@ -5,7 +5,7 @@ weight: 1
 description: "Inicio e hitos importantes de 23people a lo largo del tiempo"
 keywords: ["historia", "inicio", "nacimiento", "hitos", "linea", "tiempo"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Linea de tiempo de nuestros hitos

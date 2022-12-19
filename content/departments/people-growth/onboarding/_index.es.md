@@ -6,7 +6,7 @@ weight: 2
 draft: false
 keywords: ["onboarding"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

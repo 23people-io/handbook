@@ -6,7 +6,7 @@ weight: 1
 draft: false
 keywords: ["proveedores", "registro"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

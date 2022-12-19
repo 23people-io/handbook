@@ -7,7 +7,7 @@ weight: 9
 draft: false
 keywords: ["contabilidad", "finanzas"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

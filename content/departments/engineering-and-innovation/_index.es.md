@@ -5,7 +5,7 @@ date: 2021-11-30T00:00:00-03:00
 icon_color: "text-info"
 weight: 7
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 ### Introducción

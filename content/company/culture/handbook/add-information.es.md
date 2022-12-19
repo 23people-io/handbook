@@ -6,7 +6,7 @@ weight: 3
 draft: false
 keywords: ["handbok", "agregar", "informacion"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 ### Añadir o modificar información

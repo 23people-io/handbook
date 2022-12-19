@@ -6,7 +6,7 @@ weight: 2
 draft: false
 keywords: ["charlas"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 ### Charlas ya realizadas

@@ -7,7 +7,7 @@ description: "Agile coaching como planificar y entregar resultados de valor"
 draft: false
 keywords: ["planificación", "entregas", "agile"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

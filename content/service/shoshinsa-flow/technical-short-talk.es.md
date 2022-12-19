@@ -6,7 +6,7 @@ weight: 2
 draft: false
 keywords: ["entrevista", "telefonica", "filtro"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # ¿Para qué necesitamos esta etapa?

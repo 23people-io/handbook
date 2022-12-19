@@ -8,7 +8,7 @@ keywords: ["charlas", "talks"]
 description: "Iniciativa de Charlas"
 draft: false
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 ### Introducción

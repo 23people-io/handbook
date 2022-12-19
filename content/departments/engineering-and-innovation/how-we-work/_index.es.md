@@ -6,7 +6,7 @@ weight: 1
 description: "Todo lo relacionado a nuestra metodologia de trabajo, flujos de trabajo, gestión de equipos, gestion de clientes, entregas, manejo de alcances."
 draft: false
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

@@ -6,7 +6,7 @@ weight: 2
 draft: false
 keywords: ["manual", "agregar"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 ### Añadir personas al manual

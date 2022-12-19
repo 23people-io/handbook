@@ -6,7 +6,7 @@ weight: 3
 description: "Iniciativa de Agile Coaching para todos los equipos de 23people"
 draft: false
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

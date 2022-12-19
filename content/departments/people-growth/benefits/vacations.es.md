@@ -6,7 +6,7 @@ weight: 2
 draft: false
 keywords: ["we", "all", "win", "bono", "sueldo"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 Sabemos que quizás podamos aprovechar las vacaciones como queramos bajo el contexto actual, pero queremos recordarles la importancia de descansar nuestra mente y desconectarnos (aunque sean unos días).

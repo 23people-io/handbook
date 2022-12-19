@@ -7,7 +7,7 @@ weight: 3
 draft: false
 keywords: ["asincrónico"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # ¿Por qué trabajamos de manera asincrónica?

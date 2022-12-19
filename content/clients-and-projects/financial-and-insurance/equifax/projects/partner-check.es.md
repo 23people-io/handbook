@@ -7,7 +7,7 @@ draft: false
 # search related keywords
 keywords: ["Proyectos"]
 mantained_by:
-  - patricia.munoz
+  - patymunozl
 ---
 
 # Proyecto PartnerCheck

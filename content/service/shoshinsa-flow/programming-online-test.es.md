@@ -6,8 +6,8 @@ weight: 3
 draft: false
 keywords: ["programación", "prueba", "ejercicios"]
 mantained_by:
-    - manu.reyes
-    - patricia.munoz
+    - manu-reyes-23p
+    - patymunozl
 ---
 
 # ¿Para qué necesitamos esta etapa?
@@ -18,7 +18,6 @@ Esta etapa tiene por objetivo poder evaluar la habilidad de programación del ca
 
 Corresponde a una **prueba online** de varios ejercicios cortos de programación, usando la herramienta [HackerRank](https://www.hackerrank.com/). La prueba llegará por vía mail. La idea es que, en un rango de tiempo acordado (1 o 2 días), el candidato pueda resolver los ejercicios para que uno de nuestros especialistas los revise e indique el resultado final. Los ejercicios pueden ser de tipo recursivo o iterativos.  
 Al candidato se le hará llegar este **[link de video](https://drive.google.com/file/d/1Ss4rsbZMDON3Qnv84TahoAPli_i1Ljpx/view?usp=sharing)** con instrucciones sobre HackerRank para que una vez que ingrese pueda realizar el test sin problemas.
-
 
 # Tipos de ejercicios de programación
 

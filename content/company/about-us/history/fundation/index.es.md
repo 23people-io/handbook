@@ -5,7 +5,7 @@ weight: 1
 description: "Detalles de los primeros dias de 23people"
 keywords: ["historia", "inicio", "nacimiento", "fundacion"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Cómo nació 23people

@@ -4,7 +4,7 @@ date: 2022-05-09T00:00:00-03:00
 weight: 2
 description: "Los valores que compartimos quienes somos parte de 23people"
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Nuestros valores

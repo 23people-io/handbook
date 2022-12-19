@@ -7,7 +7,7 @@ draft: false
 keywords: ["peoplecare", "complement", "secure"]
 mantained_by:
     - alejandrapaola
-    - patricia.munoz
+    - patymunozl
 ---
 
 # Información sobre el Seguro Complementario de Salud y Dental

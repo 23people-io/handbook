@@ -4,7 +4,7 @@ date: 2022-06-13T00:00:00-03:00
 weight: 4
 description: "Lo que estaremos haciendo en 23people dentro de 3 años más (2025)"
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Sobre Nuestra Estrategia

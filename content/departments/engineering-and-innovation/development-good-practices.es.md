@@ -6,7 +6,7 @@ weight: 3
 draft: false
 keywords: ["buenas", "practicas"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

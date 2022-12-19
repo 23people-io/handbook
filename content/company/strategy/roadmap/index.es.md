@@ -4,7 +4,7 @@ date: 2022-06-13T00:00:00-03:00
 weight: 2
 description: "El camino que estamos recorriendo para llegar a nuestro norte."
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 Para alcanzar el Norte en que queremos estar, se ha definido una estrategia la cual cuenta con el siguiente roadmap (camino) a ser recorrido.

@@ -6,7 +6,7 @@ weight: 1
 draft: false
 keywords: ["internacionalizacion", "peru", "i18n"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

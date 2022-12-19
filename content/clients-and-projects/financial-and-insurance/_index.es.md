@@ -7,7 +7,7 @@ draft: false
 # search related keywords
 keywords: [""]
 mantained_by:
-  - patricia.munoz
+  - patymunozl
 ---
 
 **Equifax**
