@@ -10,8 +10,8 @@
         {{ range $mantained_by }}
             {{ $teamMemberData := ( index $.Site.Data "team-members" . ) }}
             <div class="avatar page-avatar">
-                {{ $gitlab_profile_url := (print $.Site.Params.gitlab_base_url $teamMemberData.gitlab) }}
-                <a href="{{ $gitlab_profile_url }}" target="_blank">
+                {{ $github_profile_url := (print $.Site.Params.github_base_url $teamMemberData.github) }}
+                <a href="{{ $github_profile_url }}" target="_blank">
                     <img
                         src="{{ $teamMemberData.picture }}"
                         alt=""
@@ -28,8 +28,8 @@
                     {{ $pageData.Lastmod.Format "Jan 2, 2006" }}
                 </li>
                 <li class="meta-data">
-                    {{ $gitlab_url := (print $.Site.Params.gitlab_web_ide_base_url $pageData.File.Path) }}
-                    <a href="{{ $gitlab_url }}" target="_blank">
+                    {{ $github_url := (print $.Site.Params.github_web_ide_base_url $pageData.File.Path) }}
+                    <a href="{{ $github_url }}" target="_blank">
                         Contribuye a esta página
                     </a>
                 </li>

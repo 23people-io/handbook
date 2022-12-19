@@ -1,3 +1,29 @@
 # Default code owners
-* @mreyescano @marceloat23 @migue23p @patymunozl
+* @manu-reyes-23p @marceloat23
+
+# Config Files
+.github/CODEOWNERS @manu-reyes-23p @marceloat23
+
+# Company
+/content/company/ @manu-reyes-23p @marceloat23
+
+# Organization
+/content/organization/ @manu-reyes-23p @marceloat23
+
+# Community
+/content/community/ @manu-reyes-23p
+/content/community/common-procedures/ @manu-reyes-23p
+
+# Departments
+/content/departments/people-growth/ @manu-reyes-23p @alejandrapaola
+/content/departments/finances/ @manu-reyes-23p @ysela.fiorino
+/content/departments/engineering-and-innovation/ @manu-reyes-23p @marceloat23 @migue23p @patymunozl
+/content/departments/growth-marketing/ @manu-reyes-23p @CataStange
+/content/departments/sales-and-customer-success/ @manu.reyes
+
+# Service
+/content/service/ @manu.reyes @patymunozl
+
+# Clients and Projects
+/content/clients-and-projects/ @manu.reyes
 

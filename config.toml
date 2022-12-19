@@ -35,9 +35,9 @@ light_color = "#f8f9fa"
 # font family
 font_family = "lato" # Choose font family from : https://fonts.google.com/
 
-# Gitlab Web IDE Base Url
-gitlab_base_url = "https://gitlab.com/"
-gitlab_web_ide_base_url = "https://gitlab.com/-/ide/project/23people.io/our-sites/handbook/edit/main/-/content/"
+# Github Web IDE Base Url
+github_base_url = "https://github.com/"
+github_web_ide_base_url = "https://gitlab.com/-/ide/project/23people.io/our-sites/handbook/edit/main/-/content/"
 
 ############################## social links ##############################
 [[params.social]]
@@ -47,8 +47,8 @@ link = "https://www.facebook.com/23people"
   
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-name = "Gitlab"
-link = "https://gitlab.com/23people"
+name = "Github"
+link = "https://github.com/23people-io"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
@@ -88,12 +88,12 @@ subtitle = "Desde como pedir vacaciones hasta cómo construimos geniales solucio
 [Languages.es.params.cta]
 enable = true
 title = "¿Quieres colaborar con contenido en este manual?"
-content = "Este manual se mantiene por medio del uso de nuestra cuenta en [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/)."
+content = "Este manual se mantiene por medio del uso de nuestra cuenta en [Github Pages](https://pages.github.com/)."
 # colaboration action button
 [Languages.es.params.cta.button]
 enable = true
 label = "¡Agrega contenido 🥳!"
-link = "https://gitlab.com/23people/our-sites/handbook/-/tree/main"
+link = "https://github.com/23people-io/handbook"
 
 
 ################## spanish navigation #################
