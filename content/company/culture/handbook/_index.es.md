@@ -5,7 +5,7 @@ weight: 5
 draft: true
 keywords: ["faq", "handbook", "manual"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # ¿Qué es el Manual de 23people?

@@ -7,5 +7,5 @@ icon: "fas fa-people-roof"
 icon_color: "text-primary"
 weight: 5
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---

@@ -7,14 +7,13 @@ draft: false
 keywords: ["espacio", "trabajo", "reembolso", "escritorio", "silla"]
 mantained_by:
     - alejandrapaola
-    - patricia.munoz
+    - patymunozl
 ---
 
 ### La importancia del espacio en home office
 
-
 El espacio de trabajo es un punto clave para que las labores diarias sean efectivas y eficientes ya que tiene la capacidad de repercutir en nuestro estado de ánimo, es por esto que queremos que te sientas cómodo y seguro desde donde desarrollas tu trabajo.  
-A continuación te dejamos información al respecto que puede ser de tu interés para que conozcas como acceder a esta iniciativa.  
+A continuación te dejamos información al respecto que puede ser de tu interés para que conozcas como acceder a esta iniciativa.
 
 ## ¿De que se trata?
 
@@ -26,8 +25,7 @@ Silla (ergonómica), escritorio, monitor, alzador, teclado y mouse. Si tienes to
 
 ## ¿Que debo tomar en cuenta?
 
->*El pago se realiza aproximadamente en 30 días hábiles posteriores a la solicitud del reembolso.*
->*Por temas de orden, haremos 15 pagos por mes, si tu solicitud de reembolso es la número 16 te la reembolsaremos el mes siguiente y así hasta culminar los pagos.*
+> _El pago se realiza aproximadamente en 30 días hábiles posteriores a la solicitud del reembolso._ >_Por temas de orden, haremos 15 pagos por mes, si tu solicitud de reembolso es la número 16 te la reembolsaremos el mes siguiente y así hasta culminar los pagos._
 
 ## Links de interes
 
@@ -46,7 +44,7 @@ Es una silla que tenga respaldo alto, con soporte lumbar, apoya brazos y regulac
 **¿Si el artículo que compraré supera el tope máximo lo puedo comprar?**
 Sí, pero se te reembolsará hasta el tope máximo establecido.
 
->Ejemplo: Compraste una silla ergonómica y te costó 190.000 CLP te reembolsaremos 130.000 CLP y la diferencia queda a tu cargo.
+> Ejemplo: Compraste una silla ergonómica y te costó 190.000 CLP te reembolsaremos 130.000 CLP y la diferencia queda a tu cargo.
 
 **¿La boleta debe estar a mi nombre?**
 Sí.
@@ -59,6 +57,3 @@ Sí, puedes reembolsar audífonos, lampara, mouse pad, brazo para pantalla.
 
 **¿Los implementos que compre son míos o de 23people?**
 Son tuyos, al finalizar la relación laboral los artículos adquiridos bajo este beneficio se quedan contigo.
-
-
-

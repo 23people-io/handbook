@@ -6,7 +6,7 @@ weight: 4
 draft: false
 keywords: ["pagina", "manual"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 ### Nueva página en nuestro Handbok

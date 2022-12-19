@@ -7,5 +7,5 @@ icon_color: "text-info"
 description: "Nuestra area preocupada por entender a nuestros clientes y la relación con la comunidad."
 keywords: ["marketing"]
 mantained_by:
-    - Catita_
+    - CataStange
 ---

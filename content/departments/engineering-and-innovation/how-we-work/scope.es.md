@@ -7,7 +7,7 @@ description: "Agile coaching asociado al manejo de alcance"
 draft: false
 keywords: ["alcance", "equipo", "agile"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

@@ -9,7 +9,7 @@ description: "Información sobre los distintos departamentos que apoyan los serv
 type: "docs"
 keywords: ["people", "growth", "sales", "finanzas", "marketing", "engineering"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 ### Introducción

@@ -7,14 +7,14 @@ draft: false
 keywords: ["peoplecare", "complement", "secure"]
 mantained_by:
     - alejandrapaola
-    - patricia.munoz
+    - patymunozl
 ---
 
-# Formularios para solicitar reembolsos 
+# Formularios para solicitar reembolsos
 
-💡 Solo debes llevar el formulario impreso cuando vayas a: ópticas y consultas dentales. 
+💡 Solo debes llevar el formulario impreso cuando vayas a: ópticas y consultas dentales.
 
-## Opticas 👓 
+## Opticas 👓
 
 Encuentras el formulario [aquí](https://w3.metlife.cl/content/dam/metlifecom/cl/pdfs/Formulario_Reembolso_GastosMedicos.pdf)
 
@@ -22,8 +22,6 @@ Encuentras el formulario [aquí](https://w3.metlife.cl/content/dam/metlifecom/cl
 
 Encuentras el formulario [aquí](https://w3.metlife.cl/content/dam/metlifecom/cl/pdfs/Formulario_Reembolso_Dental.pdf)
 
-
-
-> Nota 1: *Debes llevarlo impreso o avisar al pedir hora para que el profesional lo firme. Si es Telemedicina, debes enviarlo para que lo completen.*
-> 
-> Nota 2: *Si tienes dudas sobre reembolsos rechazados, o quieres asegurarte sobre la cobertura de alguna prestación específica puedes comunicarte vía mail con nuestra ejecutiva Norma González colectivodirectomet@gmail.com. Copiar por favor a gestion.personas@23people.io para ayudar con el seguimiento.*
+> Nota 1: _Debes llevarlo impreso o avisar al pedir hora para que el profesional lo firme. Si es Telemedicina, debes enviarlo para que lo completen._
+>
+> Nota 2: _Si tienes dudas sobre reembolsos rechazados, o quieres asegurarte sobre la cobertura de alguna prestación específica puedes comunicarte vía mail con nuestra ejecutiva Norma González colectivodirectomet@gmail.com. Copiar por favor a gestion.personas@23people.io para ayudar con el seguimiento._

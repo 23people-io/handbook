@@ -7,7 +7,7 @@ description: "Agile coaching asociado a la gestión y relación del equipo"
 draft: false
 keywords: ["gestion", "equipo", "agile"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

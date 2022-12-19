@@ -4,14 +4,14 @@ date: 2022-01-07T00:00:00-03:00
 lastmod: 2022-01-07T00:00:00-03:00
 weight: 2
 draft: false
-keywords: ["handbok", "agregar"]
+keywords: ["manual", "agregar"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
-### Añadir personas al handbók
+### Añadir personas al manual
 
-**¿Por qué me aparece este error al ingresar al handbók de 23people?**
+**¿Por qué me aparece este error al ingresar al Manual de 23people?**
 
 ![error-404-image](../../../images/error_404.png)
 

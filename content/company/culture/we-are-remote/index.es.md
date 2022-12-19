@@ -7,7 +7,7 @@ weight: 2
 draft: false
 keywords: ["remoto"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # ¿Por qué trabajamos de forma remota?

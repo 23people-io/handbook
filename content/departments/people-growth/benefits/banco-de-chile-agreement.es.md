@@ -6,7 +6,7 @@ weight: 10
 draft: false
 keywords: ["convenio", "banco", "chile"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
     - alejandrapaola
 ---
 
@@ -16,17 +16,18 @@ mantained_by:
 
 23people tiene convenio con el Banco de Chile con excelentes beneficios.
 
-## ¿Que incluye el plan? 
-Cuenta corriente, tarjeta de debito y linea de crédito. 
+## ¿Que incluye el plan?
+
+Cuenta corriente, tarjeta de debito y linea de crédito.
 Este plan es con mantención 0$ siempre y cuando abones tu renta mensual en la cuenta.
 
-> 👀 Puedes optar a una tarjeta de crédito *sujeto a evaluación*
+> 👀 Puedes optar a una tarjeta de crédito _sujeto a evaluación_
 
-[Descripción del plan](https://drive.google.com/drive/folders/1feayfIKFufeIM9LKfWC5elBs2zF6tY0R) 
+[Descripción del plan](https://drive.google.com/drive/folders/1feayfIKFufeIM9LKfWC5elBs2zF6tY0R)
 
-## ¿Cómo contacto a nuestra ejecutiva? 👩‍💼 
+## ¿Cómo contacto a nuestra ejecutiva? 👩‍💼
 
 Acá te dejamos los datos:
 Nombre: Fabiana Riquelme
 Teléfono: 2-24689038
-Email: fpriquelme@bancochile.cl 
+Email: fpriquelme@bancochile.cl

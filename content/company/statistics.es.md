@@ -6,7 +6,7 @@ weight: 6
 draft: true
 keywords: ["estadisticas", "indices"]
 mantained_by:
-  - manu.reyes
+  - manu-reyes-23p
 ---
 
 ### Introducción

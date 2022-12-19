@@ -7,7 +7,7 @@ icon_color: "text-success"
 description: "Con quienes hemos o estamos trabajando."
 type: "docs"
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

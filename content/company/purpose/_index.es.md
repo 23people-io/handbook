@@ -5,7 +5,7 @@ weight: 3
 keywords: ["vision", "proposito", "mision"]
 description: "El propósito que muestra nuestro norte y el camino que seguimos."
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Nuestro propósito

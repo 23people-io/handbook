@@ -5,7 +5,7 @@ weight: 1
 description: "El origen de nuestro nombre"
 keywords: ["nombre", "23people", "matrix", "zion", "architect", "tiempo", "one"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # ¿Porqué nuestra empresa se llama 23people?

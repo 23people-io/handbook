@@ -4,7 +4,7 @@ date: 2021-12-20T00:00:00-03:00
 weight: 3
 description: "Todas esas cosas maravillas que nos han pasado y que nos gustaría recordar"
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

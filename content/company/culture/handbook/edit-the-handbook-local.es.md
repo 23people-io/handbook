@@ -6,30 +6,32 @@ weight: 1
 draft: false
 keywords: ["handbok", "manual", "local"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
-### Introducción
+# Introducción
 
 En esta página, se mostrará el como realizar cambios, añadir nuevas páginas o temas mas avanzados de edición del proyecto, mediante modificaciones en tu ambiente local.
 
 DRAFT:
 
-### Prerequisitos
+# Prerequisitos
 
--   Tener una cuenta en Gitlab
+-   Tener una cuenta en Github
 -   Tener conocimientos minimos de git
 -   Tener una llave SSH
--   Subir la llave a la cuenta personal en Gitlab
+-   Subir la llave a la cuenta personal en Github
 -   Instalar Hugo en el ambiente local
 
-#### Paso 1: Instalación del ambiente
+# Pasos
+
+## Instalación del ambiente
 
 Esto es para Mac
 
 [Instalar Hugo](https://gohugo.io/getting-started/installing/#homebrew-macos)
 
-### ¿Cómo se suben los últimos cambios realizados en el handbok?
+## ¿Cómo se suben los últimos cambios realizados en el manual?
 
 Para que los cambios se puedan compartir y visualizar en nuestra página principal es necesario realizar un merge request.
 Estos se pueden realizar por el terminal o directamente desde el Visual Stude Code.
@@ -50,7 +52,7 @@ Estos se pueden realizar por el terminal o directamente desde el Visual Stude Co
 
     2.5.- git push (Para que suba la información)
 
-    3.- Hacer el Merge Request en gitlab
+    3.- Hacer el Pull Request (PR) en github
 
     4.- Esperar que te aprueben el cambio.
 
@@ -64,17 +66,17 @@ Estos se pueden realizar por el terminal o directamente desde el Visual Stude Co
 
     4.- Hacer un push desde tu rama.
 
-    5.- Hacer el MR en gitlab
+    5.- Hacer el PR en githubb
 
     6.- Esperar que te aprueben el cambio.
 
-### Problemas y soluciones conocidas
+# Problemas y soluciones conocidas
 
-#### ¿Qué pasa si al subir un cambio nos llega un mail con la nota Failed jobs?
+## ¿Qué pasa si al subir un cambio nos llega un mail con la nota Failed jobs?
 
 Podemos ingresar al número de Pipeline que te lleva directamente a la página para revisar cuál es el motivo del fallo.
 
-#### Al actualizar la rama desde el mail dejó de funcionar mi servidor local. Me da el siguiente error al iniciar el servidor
+## Al actualizar la rama desde el mail dejó de funcionar mi servidor local. Me da el siguiente error al iniciar el servidor
 
 Al intentar subir el servidor (hugo server --disableFastRender --gc --buildDrafts) envía el siguiente mensaje:
 
@@ -83,7 +85,7 @@ Posterior a esto mata la sesión.
 
 Esto puede ser porque al intentar subir el código git deja algunas líneas de comentarios en algunas páginas. Estos comentarios deben ser eliminados.
 
-#### Otro tipo de errores
+## Otro tipo de errores
 
 **Error Validate branches Another open merge request already exists for this source branch: !20**
 Este error se produce cuando existe pendiente de merge la misma rama.

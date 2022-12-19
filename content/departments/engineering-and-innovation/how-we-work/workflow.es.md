@@ -7,7 +7,7 @@ description: "Agile coaching para mantener un flujo de trabajo sostenible y pred
 draft: false
 keywords: ["flujo", "trabajo", "sostenible", "predecible"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

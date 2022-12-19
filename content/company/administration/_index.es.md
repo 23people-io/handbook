@@ -6,7 +6,7 @@ weight: 6
 draft: true
 keywords: ["administracion"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 # Introducción

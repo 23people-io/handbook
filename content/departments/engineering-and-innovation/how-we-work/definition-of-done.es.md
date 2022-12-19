@@ -7,7 +7,7 @@ description: "¿Cuál es la definición de terminado que utilizamos en nuestros 
 draft: false
 keywords: ["terminado", "defición", "done"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 La definición de terminado (Definition of done) se utiliza para evaluar cuándo se ha completado el trabajo sobre el Incremento de producto.

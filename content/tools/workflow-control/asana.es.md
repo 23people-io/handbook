@@ -6,7 +6,7 @@ weight: 2
 draft: false
 keywords: ["asana"]
 mantained_by:
-    - patricia.munoz
+    - patymunozl
 ---
 
 # Introducción

@@ -8,7 +8,7 @@ weight: 8
 draft: false
 keywords: ["comercial", "customer", "success", "ventas", "clientes"]
 mantained_by:
-    - manu.reyes
+    - manu-reyes-23p
 ---
 
 ### Introducción
