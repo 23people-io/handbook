@@ -9,13 +9,13 @@ mantained_by:
 
 # Introducción
 
-La iniciativa consiste es que podamos tener un listado co-creado por todos en 23people el cual incluya todas esas cosas maravillas que podamos rescatar y tenerlas presente como parte de nuestra historia. Tenemos a quedarnos en los problemas y conflictos, pero tambien hemos logrado muchas cosas que vale la pena escribir, compartir y recordar 🤗.
+La iniciativa consiste es que podamos tener un listado co-creado por todos en 23people el cual incluya todas esas cosas maravillas que podamos rescatar y tenerlas presente como parte de nuestra historia. Tenemos a quedarnos en los problemas y conflictos, pero tambien hemos logrado muchas cosas que vale la pena escribir, compartir y recordar.
 
 # Inspiración
 
 Tomado de una idea mostrada en la obra de teatro ["Todas esas cosas maravillosas"](https://redsalasdeteatro.cl/eventos/todas-esas-cosas-maravillosas/), el cual es:
 
-> El testimonio de un niño que comienza a hacer una lista de todas las cosas maravillosas del mundo, una lista de todas esas cosas por las que vale la pena vivir. Es el inocente esfuerzo de un niño para alentar a su madre después de su primer intento de suicidio. ¿Cuáles son esas cosas maravillosas? Son las cosas más sencillas, las cosas cotidianas que vinculan con la vida. Son las cosas que no vemos o que no podemos ver. La lista se hace más y más larga mientras el niño se hace adulto. Es, finalmente, un testimonio sobre todo lo que somos capaces de hacer por aquellos que amamos.
+> El testimonio de un niño que comienza a hacer una lista de todas las cosas maravillosas del mundo, una lista de todas esas cosas por las que vale la pena vivir. Es el inocente esfuerzo de un niño para alentar a su madre después de su primer intento de suicidio. ¿Cuáles son esas cosas maravillosas? Son las cosas más sencillas, las cosas cotidianas que vinculan con la vida. Son las cosas que no vemos o que no podemos ver. La lista se hace más y más larga mientras el niño se hace adulto. Es, finalmente, un testimonio sobre todo lo que somos capaces de hacer por aquellos que amamos..
 
 ![wonderful-things-image](../wonderfull-things.jpeg)
 
