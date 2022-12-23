@@ -90,7 +90,7 @@ Esta etapa corresponde a cuando el CV ya fue revisado y acreditado que cumpliera
 ### Etapa 4.1: Prueba técnica en progreso
 
 Esta etapa corresponde a la realización de pruebas técnicas por parte del candidato, para esto se envía mail explicando la prueba, un set de preguntas, se recuerda al cargo que está postulando y además se indican los beneficios de la empresa.
-Para mas detalles sobre la prueba técnica acceder a este [Link](https://manual.23people.io/the-services/digital-tech-talent/shoshinsa-flow/programming-online-test/).  
+También en el mail encontrará un video explicativo para poder acceder y realizar el test en [HackerRank](https://drive.google.com/file/d/1Ss4rsbZMDON3Qnv84TahoAPli_i1Ljpx/view).  
 **Tipo de Etapa:** Actividad  
 **Valor de la etapa:**
 
